@@ -16,7 +16,8 @@
 
 - [Planilha de gráficos com dados fictícios](./dashboards-financeiros-cfosai.xlsx) (identidade CFOs.AI)
 - [Prompts para reproduzir os gráficos](./prompts-graficos.md) (copie e cole em qualquer IA)
-- Slides e gravação: disponibilizados após o webinar
+- [Apresentação do webinar](./apresentacao/Webinar-01-Dashboards-financeiros-com-GitHub-e-IA.pptx) (slides em PowerPoint)
+- Gravação: disponibilizada após o webinar
 
 ## Prévias dos gráficos
 
